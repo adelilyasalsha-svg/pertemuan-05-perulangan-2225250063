@@ -1,8 +1,8 @@
 # Pertemuan 05 Perulangan Python
 
 Nama: Adelilya Salsha
-NIM: [Isi NIM]
-Kelas: [Isi Kelas]
+NIM: 2225250063
+Kelas: 3B
 
 ## Tujuan
 
